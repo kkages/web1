@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<HTML>
+ <BODY> 
+  <h1><strong>&nbsp; 🌈숙명앰네스티 인권주간</strong></h1><p>
+  <h3>&nbsp;패들릿을 이용한 모두가 함께 하는 인권 이야기</h3>
+  <hr noshade><h2><ul><li> 스포츠계 여성인권</li></ul></h2></hr noshade>
+  <h4>&nbsp;#혐오란 #올림픽_성차별 #스포츠계_혐오표현 #스포츠_유니폼</h4>
+    <a href=”<div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><p style="padding:0;margin:0"><iframe src="https://padlet.com/embed/a4fbhc7jjd4icc09" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></p><div style="padding:8px;text-align:right;margin:0;"><a href="https://padlet.com?ref=embed" style="padding:0;margin:0;border:none;display:block;line-height:1;height:16px" target="_blank"><img src="https://padlet.net/embeds/made_with_padlet.png" width="86" height="16" style="padding:0;margin:0;background:none;border:none;display:inline;box-shadow:none" alt="Padlet으로 만듦"></a></div></div>
+ </BODY>
+</HTML>
